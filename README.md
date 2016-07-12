@@ -3,21 +3,7 @@
  
 
 Instructions 
-<html><CENTER><font color=#FFB90F size=7><b><u>Instructions</u></b><br></font><font size=4 color=#FFFFFF>The goal of the game is to be the first player to move all four of their fish"
-                          
-    
-                          +"from <b>’Home’</b> to <b>‘Finish’</b><br>A label at the top of the"+
-                          "game board will indicate which player’s turn it is, and what action"+
-                          "they need to take.<br> To roll, click the die at the center of the game"+
-                          "board. You are only allowed to move your fish out of ‘Home’<br> if you "+
-                          "roll a 6 or a 1. Once your fish are on the board, roll the die and "+
-                          "click the fish that you want to move.<br> You will be moved the"+
-                          "corresponding number of spots. If you land on a space that has your"+
-                          "opponent’s fish<br>, your opponent’s fish is sent back to their ‘Home’."+
-                          "You may not land on your own fish. After swimming<br> around the board "+
-                          "once, your fish can make their way into their finish zone. The first"+
-                          "player to have all 4 of<br> their fish in the finish zone is the winner!"+
-                          "</font></CENTER></html>" );
+The goal of the game is to be the first player to move all four of their fish from Home to Finish. A label at the top of the game board will indicate which player’s turn it is, and what action" they need to take.To roll, click the die at the center of the game board. You are only allowed to move your fish out of Homeif you roll a 6 or a 1. Once your fish are on the board, roll the die and click the fish that you want to move.<br> You will be moved the corresponding number of spots. If you land on a space that has your opponent’s fish<br>, your opponent’s fish is sent back to their Home.You may not land on your own fish. After swimming around the board once, your fish can make their way into their finish zone. The first player to have all 4 of their fish in the finish zone is the winner!
 
 GUI:
 -There will be 3 tabs in the GUI: Instructions, Setup, and Game:
